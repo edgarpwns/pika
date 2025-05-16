@@ -1,5 +1,5 @@
 
-# 🐭 PIKA – Herramienta de Escaneo con Nmap
+# PIKA – Herramienta de Escaneo con Nmap
 
 ¡Una herramienta simple, útil y adorable que te ayuda a hacer escaneos de red con `nmap`… con la energía de Pikachu! ⚡
 
@@ -11,7 +11,6 @@
 - 📡 Escanea todos los puertos de una IP.
 - 🛡️ Realiza escaneos de versiones y vulnerabilidades con `-sCV`.
 - 🗃️ Guarda automáticamente los resultados en archivos `.txt` con el nombre que elijas.
-- 🐭 Banner de Pikachu animado y a color al iniciar y salir.
 
 ---
 
