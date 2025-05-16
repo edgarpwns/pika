@@ -96,3 +96,5 @@ Este proyecto está bajo la licencia MIT. Usa libremente, con crédito. ⚡
 ## 🧡 Créditos
 
 Creado por **edgarpwns** con amor y electricidad.
+
+No me hago responsable del mal uso que se le pueda dar a la herramineta, esta hecha con fines de educacion y para aprender
